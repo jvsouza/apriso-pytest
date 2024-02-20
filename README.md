@@ -1,4 +1,4 @@
-# Pytest on DELMIA APriso
+# Pytest on DELMIA Apriso
 
 ## Main goal
 > Use pytest as a unit testing tool in DELMIA Apriso
@@ -9,7 +9,7 @@
 - [Vitrualenv](https://virtualenv.pypa.io/)
 
 ## Installation
-1. [Clone](https://github.com/jvsouza/unit_test_delmia_apriso.git) or [download](https://github.com/jvsouza/unit_test_delmia_apriso/archive/refs/heads/main.zip) the repository;
+1. [Clone](https://github.com/jvsouza/apriso-pytest.git) or [download](https://github.com/jvsouza/apriso-pytest/archive/refs/heads/main.zip) the repository;
 2. Create virtual environment ( virtualenv venv );
 3. Install the list of packages using `requirements.txt` ( pip install -r requirements.txt ).
 
