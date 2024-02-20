@@ -1,0 +1,346 @@
+2024-02-20 16:18:41,413 > [basic]
+2024-02-20 16:18:41,413 > debug = true
+2024-02-20 16:18:41,413 > protocol = http
+2024-02-20 16:18:41,413 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:18:41,413 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:18:41,413 > [server]
+2024-02-20 16:18:41,413 > host = TCSVL1D125
+2024-02-20 16:18:41,413 > [webservice]
+2024-02-20 16:18:41,413 > ws_type = SOAP
+2024-02-20 16:18:41,413 > ws_name = unitTestSOAP
+2024-02-20 16:18:41,413 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:18:41,413 > OperationName = TEST_PY
+2024-02-20 16:18:41,414 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:18:41,414 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:21:37,585 > [basic]
+2024-02-20 16:21:37,585 > debug = true
+2024-02-20 16:21:37,585 > protocol = http
+2024-02-20 16:21:37,585 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:21:37,585 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:21:37,585 > [server]
+2024-02-20 16:21:37,585 > host = TCSVL1D125
+2024-02-20 16:21:37,585 > [webservice]
+2024-02-20 16:21:37,585 > ws_type = SOAP
+2024-02-20 16:21:37,585 > ws_name = unitTestSOAP
+2024-02-20 16:21:37,585 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:21:37,586 > OperationName = TEST_PY
+2024-02-20 16:21:37,586 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:21:37,586 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:21:58,816 > [basic]
+2024-02-20 16:21:58,816 > debug = true
+2024-02-20 16:21:58,817 > protocol = http
+2024-02-20 16:21:58,817 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:21:58,817 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:21:58,817 > [server]
+2024-02-20 16:21:58,817 > host = TCSVL1D125
+2024-02-20 16:21:58,817 > [webservice]
+2024-02-20 16:21:58,817 > ws_type = SOAP
+2024-02-20 16:21:58,817 > ws_name = unitTestSOAP
+2024-02-20 16:21:58,817 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:21:58,817 > OperationName = TEST_PY
+2024-02-20 16:21:58,817 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:21:58,817 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:25:18,613 > [basic]
+2024-02-20 16:25:18,613 > debug = true
+2024-02-20 16:25:18,613 > protocol = http
+2024-02-20 16:25:18,613 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:25:18,613 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:25:18,613 > [server]
+2024-02-20 16:25:18,613 > host = TCSVL1D125
+2024-02-20 16:25:18,613 > [webservice]
+2024-02-20 16:25:18,613 > ws_type = SOAP
+2024-02-20 16:25:18,614 > ws_name = unitTestSOAP
+2024-02-20 16:25:18,614 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:25:18,614 > OperationName = TEST_PY
+2024-02-20 16:25:18,614 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:25:18,614 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:25:20,396 > {
+    'Error': None,
+    'IsSuccess': True,
+    'Output_EncodedParameters': '{"EmployeeName":"Jonas","OperationIsError":false}'
+}
+2024-02-20 16:25:35,035 > [basic]
+2024-02-20 16:25:35,035 > debug = true
+2024-02-20 16:25:35,035 > protocol = http
+2024-02-20 16:25:35,035 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:25:35,035 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:25:35,035 > [server]
+2024-02-20 16:25:35,035 > host = TCSVL1D125
+2024-02-20 16:25:35,036 > [webservice]
+2024-02-20 16:25:35,036 > ws_type = SOAP
+2024-02-20 16:25:35,036 > ws_name = unitTestSOAP
+2024-02-20 16:25:35,036 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:25:35,036 > OperationName = TEST_PY
+2024-02-20 16:25:35,036 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:25:35,036 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:25:36,790 > {
+    'Error': None,
+    'IsSuccess': True,
+    'Output_EncodedParameters': '{"EmployeeName":"Jonas","OperationIsError":false}'
+}
+2024-02-20 16:32:03,589 > [basic]
+2024-02-20 16:32:03,589 > debug = true
+2024-02-20 16:32:03,589 > protocol = http
+2024-02-20 16:32:03,589 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:32:03,589 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:32:03,589 > [server]
+2024-02-20 16:32:03,589 > host = TCSVL1D125
+2024-02-20 16:32:03,589 > [webservice]
+2024-02-20 16:32:03,589 > ws_type = SOAP
+2024-02-20 16:32:03,589 > ws_name = unitTestSOAP
+2024-02-20 16:32:03,589 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:32:03,589 > OperationName = TEST_PY
+2024-02-20 16:32:03,589 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:32:03,590 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:32:05,348 > {
+    'Error': None,
+    'IsSuccess': True,
+    'Output_EncodedParameters': '{"EmployeeName":"Jonas","OperationIsError":false}'
+}
+2024-02-20 16:46:28,211 > [basic]
+2024-02-20 16:46:28,211 > debug = true
+2024-02-20 16:46:28,211 > protocol = http
+2024-02-20 16:46:28,211 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:46:28,211 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:46:28,211 > [server]
+2024-02-20 16:46:28,211 > host = TCSVL1D125
+2024-02-20 16:46:28,211 > [webservice]
+2024-02-20 16:46:28,211 > ws_type = SOAP
+2024-02-20 16:46:28,211 > ws_name = unitTestSOAP
+2024-02-20 16:46:28,212 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:46:28,212 > OperationName = TEST_PY
+2024-02-20 16:46:28,212 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:46:28,212 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:46:30,148 > {
+    'Error': None,
+    'IsSuccess': True,
+    'Output_EncodedParameters': '{"EmployeeName":"Jonas","OperationIsError":false}'
+}
+2024-02-20 16:46:45,897 > [basic]
+2024-02-20 16:46:45,897 > debug = true
+2024-02-20 16:46:45,897 > protocol = http
+2024-02-20 16:46:45,897 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:46:45,897 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:46:45,897 > [server]
+2024-02-20 16:46:45,897 > host = TCSVL1D125
+2024-02-20 16:46:45,897 > [webservice]
+2024-02-20 16:46:45,897 > ws_type = SOAP
+2024-02-20 16:46:45,897 > ws_name = unitTestSOAP
+2024-02-20 16:46:45,897 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:46:45,898 > OperationName = TEST_PY
+2024-02-20 16:46:45,898 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:46:45,898 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY'}
+2024-02-20 16:46:47,677 > {
+    'Error': None,
+    'IsSuccess': True,
+    'Output_EncodedParameters': '{"EmployeeName":"Jonas","OperationIsError":false}'
+}
+2024-02-20 16:47:09,905 > [basic]
+2024-02-20 16:47:09,905 > debug = true
+2024-02-20 16:47:09,905 > protocol = http
+2024-02-20 16:47:09,905 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:47:09,905 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:47:09,905 > [server]
+2024-02-20 16:47:09,906 > host = TCSVL1D125
+2024-02-20 16:47:09,906 > [webservice]
+2024-02-20 16:47:09,906 > ws_type = SOAP
+2024-02-20 16:47:09,906 > ws_name = unitTestSOAP
+2024-02-20 16:47:09,906 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:47:09,906 > OperationName = TEST_PY2
+2024-02-20 16:47:09,906 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:47:09,906 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:47:11,632 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:48:36,998 > [basic]
+2024-02-20 16:48:36,998 > debug = true
+2024-02-20 16:48:36,998 > protocol = http
+2024-02-20 16:48:36,998 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:48:36,998 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:48:36,998 > [server]
+2024-02-20 16:48:36,998 > host = TCSVL1D125
+2024-02-20 16:48:36,998 > [webservice]
+2024-02-20 16:48:36,998 > ws_type = SOAP
+2024-02-20 16:48:36,999 > ws_name = unitTestSOAP
+2024-02-20 16:48:36,999 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:48:36,999 > OperationName = TEST_PY2
+2024-02-20 16:48:36,999 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:48:36,999 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:48:38,774 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:49:10,948 > [basic]
+2024-02-20 16:49:10,949 > debug = true
+2024-02-20 16:49:10,949 > protocol = http
+2024-02-20 16:49:10,949 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:49:10,949 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:49:10,949 > [server]
+2024-02-20 16:49:10,949 > host = TCSVL1D125
+2024-02-20 16:49:10,949 > [webservice]
+2024-02-20 16:49:10,949 > ws_type = SOAP
+2024-02-20 16:49:10,949 > ws_name = unitTestSOAP
+2024-02-20 16:49:10,949 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:49:10,949 > OperationName = TEST_PY2
+2024-02-20 16:49:10,949 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:49:10,949 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:49:12,640 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:49:32,576 > [basic]
+2024-02-20 16:49:32,576 > debug = true
+2024-02-20 16:49:32,577 > protocol = http
+2024-02-20 16:49:32,577 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:49:32,577 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:49:32,577 > [server]
+2024-02-20 16:49:32,577 > host = TCSVL1D125
+2024-02-20 16:49:32,577 > [webservice]
+2024-02-20 16:49:32,577 > ws_type = SOAP
+2024-02-20 16:49:32,577 > ws_name = unitTestSOAP
+2024-02-20 16:49:32,577 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:49:32,577 > OperationName = TEST_PY2
+2024-02-20 16:49:32,577 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:49:32,577 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:49:34,344 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:50:48,445 > [basic]
+2024-02-20 16:50:48,445 > debug = true
+2024-02-20 16:50:48,445 > protocol = http
+2024-02-20 16:50:48,445 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:50:48,445 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:50:48,445 > [server]
+2024-02-20 16:50:48,445 > host = TCSVL1D125
+2024-02-20 16:50:48,445 > [webservice]
+2024-02-20 16:50:48,445 > ws_type = SOAP
+2024-02-20 16:50:48,445 > ws_name = unitTestSOAP
+2024-02-20 16:50:48,445 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:50:48,445 > OperationName = TEST_PY2
+2024-02-20 16:50:48,445 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:50:48,446 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:50:50,203 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:51:09,787 > [basic]
+2024-02-20 16:51:09,788 > debug = true
+2024-02-20 16:51:09,788 > protocol = http
+2024-02-20 16:51:09,788 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:51:09,788 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:51:09,788 > [server]
+2024-02-20 16:51:09,788 > host = TCSVL1D125
+2024-02-20 16:51:09,788 > [webservice]
+2024-02-20 16:51:09,788 > ws_type = SOAP
+2024-02-20 16:51:09,788 > ws_name = unitTestSOAP
+2024-02-20 16:51:09,788 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:51:09,788 > OperationName = TEST_PY2
+2024-02-20 16:51:09,788 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:51:09,788 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:51:11,504 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:51:55,042 > [basic]
+2024-02-20 16:51:55,042 > debug = true
+2024-02-20 16:51:55,042 > protocol = http
+2024-02-20 16:51:55,042 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:51:55,042 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:51:55,042 > [server]
+2024-02-20 16:51:55,042 > host = TCSVL1D125
+2024-02-20 16:51:55,042 > [webservice]
+2024-02-20 16:51:55,042 > ws_type = SOAP
+2024-02-20 16:51:55,042 > ws_name = unitTestSOAP
+2024-02-20 16:51:55,042 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:51:55,042 > OperationName = TEST_PY2
+2024-02-20 16:51:55,042 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:51:55,042 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:51:56,724 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:55:24,985 > [basic]
+2024-02-20 16:55:24,985 > debug = true
+2024-02-20 16:55:24,985 > protocol = http
+2024-02-20 16:55:24,985 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:55:24,985 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:55:24,985 > [server]
+2024-02-20 16:55:24,986 > host = TCSVL1D125
+2024-02-20 16:55:24,986 > [webservice]
+2024-02-20 16:55:24,986 > ws_type = SOAP
+2024-02-20 16:55:24,986 > ws_name = unitTestSOAP
+2024-02-20 16:55:24,986 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:55:24,986 > OperationName = TEST_PY2
+2024-02-20 16:55:24,986 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:55:24,986 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:55:26,755 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:55:57,698 > [basic]
+2024-02-20 16:55:57,698 > debug = true
+2024-02-20 16:55:57,698 > protocol = http
+2024-02-20 16:55:57,698 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:55:57,698 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:55:57,698 > [server]
+2024-02-20 16:55:57,698 > host = TCSVL1D125
+2024-02-20 16:55:57,698 > [webservice]
+2024-02-20 16:55:57,698 > ws_type = SOAP
+2024-02-20 16:55:57,698 > ws_name = unitTestSOAP
+2024-02-20 16:55:57,698 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:55:57,699 > OperationName = TEST_PY2
+2024-02-20 16:55:57,699 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:55:57,699 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:55:59,389 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:56:09,258 > [basic]
+2024-02-20 16:56:09,258 > debug = true
+2024-02-20 16:56:09,258 > protocol = http
+2024-02-20 16:56:09,258 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:56:09,258 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:56:09,258 > [server]
+2024-02-20 16:56:09,258 > host = TCSVL1D125
+2024-02-20 16:56:09,259 > [webservice]
+2024-02-20 16:56:09,259 > ws_type = SOAP
+2024-02-20 16:56:09,259 > ws_name = unitTestSOAP
+2024-02-20 16:56:09,259 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:56:09,259 > OperationName = TEST_PY2
+2024-02-20 16:56:09,259 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:56:09,259 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:56:10,975 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
+2024-02-20 16:56:15,270 > [basic]
+2024-02-20 16:56:15,271 > debug = true
+2024-02-20 16:56:15,271 > protocol = http
+2024-02-20 16:56:15,271 > ws_path_rest = Apriso/httpServices/operations
+2024-02-20 16:56:15,271 > ws_path_soap = Apriso/WebServices/Public
+2024-02-20 16:56:15,271 > [server]
+2024-02-20 16:56:15,271 > host = TCSVL1D125
+2024-02-20 16:56:15,271 > [webservice]
+2024-02-20 16:56:15,271 > ws_type = SOAP
+2024-02-20 16:56:15,271 > ws_name = unitTestSOAP
+2024-02-20 16:56:15,271 > url = http://TCSVL1D125/Apriso/WebServices/Public/unitTestSOAP.svc?wsdl
+2024-02-20 16:56:15,271 > OperationName = TEST_PY2
+2024-02-20 16:56:15,271 > EncodedParameters = {"EmployeeNo": "jonas"}
+2024-02-20 16:56:15,271 > json_default = {'EncodedParameters': '{"EmployeeNo": "jonas"}', 'OperationName': 'TEST_PY2'}
+2024-02-20 16:56:17,019 > {
+    'Error': "Job execution failed. See logs for details. Invalid message code 'OPERATION_DOES_NOT_EXIST'",
+    'IsSuccess': False,
+    'Output_EncodedParameters': None
+}
